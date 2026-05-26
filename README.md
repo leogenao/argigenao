@@ -1,4 +1,4 @@
-# ¡Hola! Soy Argi Genao 👋
+# ¡Hola! Soyleo Genao 👋
 **Business & Data Analyst** | Especializado en el Sector Financiero
 
 [cite_start]Data Analyst con más de 3 años de experiencia en business intelligence, forecasting y reportes estratégicos dentro de la industria de servicios financieros[cite: 9]. [cite_start]Me apasiona transformar conjuntos de datos complejos en insights accionables y optimizar pipelines de datos para reducir ineficiencias operativas[cite: 10, 19].
